@@ -1,0 +1,47 @@
+body {
+    background-color:wheat;
+    margin: 0% 0% 30% 30%;
+
+    }
+
+h1 {font-size: 200%;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
+    text-indent: 0em;
+    color:#663399 ;
+    }
+
+b.email{
+    font-size: 150%;
+    margin-left: 20%;
+    color:blue
+}
+
+p.uaemail{
+    font-size: 150%;
+    color:blue
+}
+
+p.figureExplain{
+    font-size:10%;
+}
+
+p.aboutMe{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size:200%;
+    color: #00ff7f;
+}
+
+p.offer{
+    font-family: Courier New, monospace;
+    font-size:200%;
+    color: turquoise;
+}
+
+p.points{
+    font-family: Trattatello, fantasy;
+    font-size:200%;
+    color: violet;
+}
