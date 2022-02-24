@@ -21,4 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifications for part 1
+=================
 
+1. Paragraphs fonts and margin
+2. Background color
+3. Rotate the images by 90 degree
+4. Header tags with different colors
